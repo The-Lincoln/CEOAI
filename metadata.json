@@ -1,0 +1,6 @@
+{
+  "name": "SCITBD CEO Command Center",
+  "description": "24/7 Autonomous AI Marketing Operations and Leadership Command Center for SCITBD, featuring AI-generated proposals, autonomous content engines, and Google Chat integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
